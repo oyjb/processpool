@@ -1,4 +1,10 @@
-//filename : processpool.h
+/**********************************************************
+ * Author        : oyjb
+ * Email         : jbouyang@126.com
+ * Last modified : 2015-08-29 14:47
+ * Filename      : processpool.h
+ * Description   : copy right for oyjb
+ * *******************************************************/
 #ifndef PROCESSPOOL_H
 #define PROCESSPOOL_H
 

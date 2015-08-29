@@ -1,4 +1,10 @@
-//filename : processpool.c
+/**********************************************************
+ * Author        : oyjb
+ * Email         : jbouyang@126.com
+ * Last modified : 2015-08-29 14:47
+ * Filename      : processpool.c
+ * Description   : copy right for oyjb
+ * *******************************************************/
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <netinet/in.h>
